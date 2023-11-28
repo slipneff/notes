@@ -1,0 +1,9 @@
+Host: localhost
+Port: 50052
+DB:
+  Host: localhost
+  Username: denis
+  Password: denis
+  Name: notes-local
+  Port: 6444
+  SSLMode: disable
